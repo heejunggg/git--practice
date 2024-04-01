@@ -1,4 +1,4 @@
-** 나는 main branch야 88888
+** 메인브런치에서 수정함
 aaaaaaaaaaaa
 bbbbbbbbbbbbbb
 cccccccccccccccccccc
